@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Field Notes on Crypto — Richard Chitman</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <div class="wrap">
+
+    <nav class="site-nav">
+      <a href="index.html" class="active">Notes</a>
+      <a href="blog/index.html">Blog</a>
+    </nav>
+
+    <header>
+      <div class="eyebrow">Field Notes</div>
+      <h1>Learning Crypto Trading, One Module at a Time</h1>
+      <p class="tagline">A running log of what I'm picking up from iCoinPro's free training — no hype, just what I've actually learned so far.</p>
+      <div class="id-tag">Richard Chitman · iCoinPro Affiliate #1583210</div>
+    </header>
+
+    <div class="ticker"></div>
+
+    <section class="capture">
+      <h2>Want the free training sent to you?</h2>
+      <p class="sub">Drop your name and email — I'll follow up personally with the boot camp link and answer any questions before you start.</p>
+      <form name="lead-capture" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you.html">
+        <input type="hidden" name="form-name" value="lead-capture">
+        <p class="honeypot"><label>Don't fill this out: <input name="bot-field"></label></p>
+        <div>
+          <label for="lead-name">Name</label>
+          <input type="text" id="lead-name" name="name" required>
+        </div>
+        <div>
+          <label for="lead-email">Email</label>
+          <input type="email" id="lead-email" name="email" required>
+        </div>
+        <button type="submit" class="submit-btn">Send me the training</button>
+        <p class="fineprint">By submitting, you'll hear from me directly (Richard) — this isn't added to any mailing list or shared beyond that. I'm an iCoinPro affiliate; see disclosure below.</p>
+      </form>
+    </section>
+
+    <section class="faq-widget">
+      <span class="ad-eyebrow">Automated Assistant</span>
+      <p class="faq-sub">Ask a quick question — this is a simple auto-responder, not me personally. For anything it can't answer, use the form above and I'll reply myself.</p>
+      <div class="faq-chips">
+        <button class="faq-chip" data-q="Is the boot camp really free?">Is it free?</button>
+        <button class="faq-chip" data-q="Is this a pyramid scheme?">Is this MLM?</button>
+        <button class="faq-chip" data-q="What do I need to get started?">What do I need?</button>
+        <button class="faq-chip" data-q="How long does the training take?">How long?</button>
+      </div>
+      <div class="faq-log" id="faqLog"></div>
+      <div class="faq-inputrow">
+        <input type="text" id="faqInput" placeholder="Type a question…" aria-label="Ask a question">
+        <button id="faqSend" type="button">Ask</button>
+      </div>
+    </section>
+
+    <section>
+      <h2>Recent notes</h2>
+      <div class="entry">
+        <div class="entry-date">WEEK 01</div>
+        <p>Started the free 37-minute Crypto Trading Boot Camp. Covered the basics of spotting a trade setup and reading the difference between noise and a real signal.</p>
+      </div>
+      <div class="entry">
+        <div class="entry-date">WEEK 02</div>
+        <p>Working through the Micro Profit System modules — mostly focused on when to act versus when to wait. Slower pace than I expected, in a good way.</p>
+      </div>
+      <div class="entry">
+        <div class="entry-date">ONGOING</div>
+        <p>Keeping this page updated as I go. If you're curious about the same training, the link below is where I started.</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="ad-panel">
+        <span class="ad-eyebrow">Advertisement</span>
+        <!--
+          Real iCoinPro banner embed codes, copied from Marketing Tools > Banner Ads.
+          Paste additional banner codes here the same way — each one is a self-contained <a><img></a> snippet.
+        -->
+        <a class="img-link" href="https://www.icoinprotour.com/RACCryptoIncome" target="_blank" rel="noopener sponsored">
+          <img src="https://www.icoinpro.com/images/bannerAds/120x240-2.jpg" alt="Get Started with iCoinPRO Today!">
+        </a>
+      </div>
+
+      <div class="ad-panel" style="margin-top: 20px;">
+        <span class="ad-eyebrow">Advertisement</span>
+        <a class="img-link" href="https://www.icoinprotour.com/RACCryptoIncome" target="_blank" rel="noopener sponsored">
+          <img src="https://www.icoinpro.com/images/bannerAds/970x250-1.jpg" alt="Get Started with iCoinPRO Today!">
+        </a>
+      </div>
+    </section>
+
+    <section>
+      <h2>What the free Boot Camp covers</h2>
+      <ul class="learn">
+        <li>How to spot a simple crypto trade setup</li>
+        <li>How to know when to take action</li>
+        <li>How to follow a system instead of guessing</li>
+      </ul>
+    </section>
+
+    <section style="text-align:center;">
+      <a class="cta" href="https://www.FreeCryptoTraining.com/RACCryptoIncome" target="_blank" rel="noopener sponsored">
+        Start the Free Crypto Trading Boot Camp →
+      </a>
+      <div style="margin-top: 16px;">
+        <a href="https://www.icoinpro.com/RACCryptoIncome" target="_blank" rel="noopener sponsored" style="color: var(--teal); font-size: 14px;">
+          Want the full picture first? See the complete iCoinPro overview →
+        </a>
+      </div>
+    </section>
+
+    <footer>
+      <p><strong>Disclosure:</strong> I'm an independent iCoinPro affiliate. The links and banner on this page are affiliate links — if you sign up through them, I may earn a commission. I only share this because I've gone through the training myself.</p>
+      <p>Questions about iCoinPro itself: <a href="mailto:support@icoinpro.com">support@icoinpro.com</a></p>
+    </footer>
+
+  </div>
+
+  <script>
+    (function () {
+      var faqs = [
+        {
+          q: /free|cost|price|\$|pay/i,
+          a: "Yes — the 37-minute Crypto Trading Boot Camp itself is free. iCoinPro's paid Micro Profit System membership is $39.95/month if you decide to go further, and there's an optional $10 affiliate sign-up if you want to refer others yourself. No payment is required just to go through the free boot camp."
+        },
+        {
+          q: /pyramid|scam|mlm|multi.?level|legit|scheme/i,
+          a: "Fair question. iCoinPro is structured as an MLM: there's a training product, plus a referral compensation plan where affiliates earn commissions on people they enroll. That's a legitimate, registered business model, but like any MLM, most of the income potential depends on recruiting and retention, not just the trading education itself. I'd encourage you to look at the compensation plan yourself rather than take my word for it — happy to send the link."
+        },
+        {
+          q: /need|require|start|sign ?up|get started/i,
+          a: "Just a name and email to access the free boot camp — no trading experience or crypto holdings needed. If you later join as a paying member or affiliate, that requires a bit more info, but the free training doesn't."
+        },
+        {
+          q: /how long|time|minutes|hours|length/i,
+          a: "The initial Boot Camp is about 37 minutes. If you go on to the full Micro Profit System, it's broken into short 3-5 minute video modules you can go through at your own pace."
+        },
+        {
+          q: /trade ?finder|tool|software/i,
+          a: "Tradefinder is a market-scanning tool that flags potential trade setups — it doesn't place trades for you or guarantee results. I wrote a longer breakdown on the blog if you want more detail."
+        },
+        {
+          q: /risk|lose|guarantee|safe/i,
+          a: "Crypto trading carries real risk, and no course removes that — iCoinPro's own site says results aren't typical and aren't guaranteed. Worth going in with that expectation regardless of what any training promises."
+        }
+      ];
+
+      var fallback = "I don't have a canned answer for that one — this is just a simple auto-responder. Use the form above and Richard will get back to you directly.";
+
+      var log = document.getElementById('faqLog');
+      var input = document.getElementById('faqInput');
+
+      function addMsg(text, who, tag) {
+        var div = document.createElement('div');
+        div.className = 'faq-msg ' + who;
+        if (tag) {
+          var t = document.createElement('span');
+          t.className = 'tag';
+          t.textContent = tag;
+          div.appendChild(t);
+        }
+        var body = document.createElement('span');
+        body.textContent = text;
+        div.appendChild(body);
+        log.appendChild(div);
+        log.scrollTop = log.scrollHeight;
+      }
+
+      function answer(question) {
+        addMsg(question, 'user');
+        var match = faqs.find(function (f) { return f.q.test(question); });
+        var reply = match ? match.a : fallback;
+        setTimeout(function () {
+          addMsg(reply, 'bot', 'Auto-reply');
+        }, 250);
+      }
+
+      document.querySelectorAll('.faq-chip').forEach(function (chip) {
+        chip.addEventListener('click', function () {
+          answer(chip.getAttribute('data-q'));
+        });
+      });
+
+      document.getElementById('faqSend').addEventListener('click', function () {
+        var val = input.value.trim();
+        if (!val) return;
+        answer(val);
+        input.value = '';
+      });
+
+      input.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') {
+          document.getElementById('faqSend').click();
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
