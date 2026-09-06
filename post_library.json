@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "tradefinder-tool",
+      "title": "What the Tradefinder Tool Actually Does",
+      "url": "https://richard-crypto-notes.netlify.app/blog/tradefinder-tool",
+      "hook": "A plain look at the trade-scanning tool built into iCoinPro's Micro Profit System — what it flags, and what it doesn't decide for you.",
+      "status": "evergreen_active"
+    },
+    {
+      "id": "why-education-first",
+      "title": "Why iCoinPro Leads With Education",
+      "url": "https://richard-crypto-notes.netlify.app/blog/why-education-first",
+      "hook": "The training is bite-sized on purpose. Here's what the course structure actually looks like and who it's built for.",
+      "status": "evergreen_active"
+    },
+    {
+      "id": "company-story",
+      "title": "Who's Behind iCoinPro — A Quick Rundown",
+      "url": "https://richard-crypto-notes.netlify.app/blog/company-story",
+      "hook": "The founders, the origin story, and where the company says it's headed next.",
+      "status": "evergreen_active"
+    }
+  ]
+}
