@@ -30,6 +30,13 @@
       "hook": "I finally looked up what 'unilevel' actually means instead of nodding along \u2014 here's the plain-English version.",
       "status": "posted",
       "last_posted_at": "2026-09-09T22:13:56Z"
+    },
+    {
+      "id": "reading-a-candlestick-chart-for-the-first-time",
+      "title": "Reading a Candlestick Chart for the First Time (Here's What Confused Me)",
+      "url": "https://richard-crypto-notes.netlify.app/blog/reading-a-candlestick-chart-for-the-first-time.html",
+      "hook": "I closed my first crypto chart in 30 seconds flat. Here's what finally made candlesticks make sense to me.",
+      "status": "queued_for_buffer"
     }
   ]
 }
