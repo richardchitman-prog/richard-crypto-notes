@@ -47,6 +47,13 @@
       "hook": "I started a trading journal to stop making the same mistake three different ways. Here's what actually goes in it.",
       "status": "posted",
       "last_posted_at": "2026-09-29T00:09:39Z"
+    },
+    {
+      "id": "stablecoins-explained-for-beginners",
+      "title": "Stablecoins, Explained Like You've Never Touched Crypto",
+      "url": "https://richard-crypto-notes.netlify.app/blog/stablecoins-explained-for-beginners.html",
+      "hook": "Stablecoins aren't magic \u2014 they're a design goal backed by trust, reserves, or code. Here's the plain-English version I wish someone gave me first.",
+      "status": "queued_for_buffer"
     }
   ]
 }
