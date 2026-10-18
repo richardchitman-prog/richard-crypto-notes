@@ -55,6 +55,13 @@
       "hook": "Stablecoins aren't magic \u2014 they're a design goal backed by trust, reserves, or code. Here's the plain-English version I wish someone gave me first.",
       "status": "posted",
       "last_posted_at": "2026-10-06T01:05:41Z"
+    },
+    {
+      "id": "spot-vs-futures-why-i-stick-to-one",
+      "title": "Spot vs. Futures: Why I Stick to One and Don't Touch the Other",
+      "url": "https://richard-crypto-notes.netlify.app/blog/spot-vs-futures-why-i-stick-to-one.html",
+      "hook": "Leverage doesn't just amplify gains \u2014 it amplifies how you handle being wrong. I know myself well enough to stay off that ride.",
+      "status": "queued_for_buffer"
     }
   ]
 }
