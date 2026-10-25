@@ -63,6 +63,13 @@
       "hook": "Leverage doesn't just amplify gains \u2014 it amplifies how you handle being wrong. I know myself well enough to stay off that ride.",
       "status": "posted",
       "last_posted_at": "2026-10-19T23:16:47Z"
+    },
+    {
+      "id": "beginner-crypto-glossary-gas-fees-wallets",
+      "title": "The Beginner's Glossary I Wish Someone Had Handed Me",
+      "url": "https://richard-crypto-notes.netlify.app/blog/beginner-crypto-glossary-gas-fees-wallets.html",
+      "hook": "Gas fees, seed phrases, gwei \u2014 a plain-English glossary for the words nobody stops to explain when you're starting out.",
+      "status": "queued_for_buffer"
     }
   ]
 }
