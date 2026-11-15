@@ -71,6 +71,13 @@
       "hook": "Gas fees, seed phrases, gwei \u2014 a plain-English glossary for the words nobody stops to explain when you're starting out.",
       "status": "posted",
       "last_posted_at": "2026-10-28T23:51:46Z"
+    },
+    {
+      "id": "why-im-upfront-that-icoinpro-pays-affiliates",
+      "title": "Why I Tell You Upfront That I Get Paid for This",
+      "url": "https://richard-crypto-notes.netlify.app/blog/why-im-upfront-that-icoinpro-pays-affiliates.html",
+      "hook": "I get paid if you sign up through my links. Here's exactly what that means and doesn't mean for what I write.",
+      "status": "queued_for_buffer"
     }
   ]
 }
